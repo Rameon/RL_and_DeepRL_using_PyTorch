@@ -15,4 +15,4 @@ feature branch에서 작업한 후 develop branch에 merge함
 [feature/기능요약] 형식을 따름
 
 ### raw-code-in-the-book
-"파이썬과 케라스로 배우는 강화학습" 책에 나온 코드를 위한 브랜치
+"PyTorch를 활용한 강화학습/심층강화학습 실전 입문" 책에 나온 코드를 위한 브랜치
